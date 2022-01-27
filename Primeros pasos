@@ -1,0 +1,80 @@
+#print('Hello World')
+#print("   /|")
+#print("  / |")
+#print(" /  |")
+#print("/___|")
+#character_name = 'John'
+#character_age =  '35'
+#print('There once was a man named ' + character_name + ',')
+#print('he was a ' + character_age + ' years old.')
+
+# character_name = 'Mike' renombrar la variable
+
+#print('he really liked the name ' + character_name + ',')
+#print("but did't like being " + character_age + "." )
+
+# Working with strings
+#phrase = "Felipe Pérez"
+#print("Felipe Pérez")
+#print("Felipe \nPérez ")
+#print(phrase + "is cool")
+#print(phrase.upper())
+#print(phrase.lower())
+#print(phrase.isupper())
+#print(phrase.upper().isupper())
+#print(len(phrase))
+#print(phrase[0:3].upper())
+#print(phrase.index("z"))
+#print(phrase.index("lipe"))
+#print(phrase.replace("Felipe", "Felipon"))
+#print(phrase.replace("é", "e"))
+
+# Working with numbers
+#print(2)
+#print(2.0987)
+#print(-2.0987)
+#print(3 + 4.5)
+#print(10 % 3) #Residuo
+#print(10 // 3) #Modulo
+
+my_num = -5
+#print(my_num)
+#print(str(my_num) + " is my favorite number")
+#print(abs(my_num))
+#print(pow(3, 2))
+#print(max(4,6))
+#print(min(4,6))
+#print(round(3.2))
+
+#from math import *
+#print(floor(3.7))
+#print(ceil(3.1))
+#print(sqrt(81))
+
+# Input from users
+#name = input("Ingresa tu nombre: ")
+#age = input("Ingresa tu edad: ")
+#print("Hello " + name +"! tu edad es " + age)
+
+# First calculator
+#num1 = input("Dame un número: ")
+#num2 = input("Dame otro número: ")
+#result = float(num1) + float(num2)
+#print("El resultado es " + str(result))
+
+# Game Mad Libs
+
+#print("Roses are red")
+#print("Violets are blue")
+#print("I love you")
+
+#color = input("Enter a color")
+#plural_noun = input("Enter plural noun")
+#celebrity = input("Enter a celebrity")
+
+#print("Roses are" + color)
+#print(plural_noun + " are blue")
+#print("I love " + celebrity)
+
+
+# Listas
